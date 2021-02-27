@@ -17,7 +17,7 @@ class CartePrincipal extends StatelessWidget {
     return Stack(
       children: [
         Image.network(
-          'https://staticuestudio.blob.core.windows.net/buhomag/2018/10/Cartel-de-Elite-en-Netflix-1.jpg',
+          'https://larepublica.pe/resizer/WFhOYY9Cm9EsN0mrmRJvDkP1bNg=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/5ODN7EQXCFGONFIJWIH7INCETA.jpg',
           height: 350.0,
           fit: BoxFit.cover,
         ),

@@ -21,7 +21,7 @@ class ItemRedondeado extends StatelessWidget {
               ),
               child: ClipOval(
                   child: Image.network(
-                      'https://www.unotv.com/portal/unotv/imagenes/177817-Principal.jpg',
+                      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rUfSfezMeANhkKHubJpovi68Fg4L7Ve2BA&usqp=CAU',
                   fit: BoxFit.cover,)),
             )
           ],
